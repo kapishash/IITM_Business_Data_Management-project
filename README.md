@@ -21,7 +21,7 @@ This project presents a **data-driven analysis of sales and customer behavior** 
 
 ## 📦 Dataset
 
-* **Source**: Secondary dataset sourced from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report))
+* **Source**: Secondary dataset sourced from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report])
 * **Records**: Contains transaction-level data (date, items, quantity, revenue, etc.)
 * **Key Columns**: `date`, `item_name`, `quantity`, `transaction_amount`, `staff_gender`
 
